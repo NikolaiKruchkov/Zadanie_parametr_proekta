@@ -1,0 +1,5 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.4\Parametr_proekta\Parametr_proekta\bin\Debug\Parametr_proekta.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.4\Parametr_proekta\Parametr_proekta\bin\Debug\Parametr_proekta.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.4\Parametr_proekta\Parametr_proekta\obj\Debug\Parametr_proekta.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.4\Parametr_proekta\Parametr_proekta\obj\Debug\Parametr_proekta.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.4\Parametr_proekta\Parametr_proekta\obj\Debug\Parametr_proekta.pdb

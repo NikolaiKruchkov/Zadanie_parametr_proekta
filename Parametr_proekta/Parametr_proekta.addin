@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\Nikryuchkov\Desktop\Revit\Parametr_proekta.dll"</Assembly>		
+		<AddInId>4A9272C5-EB41-43A3-BB1A-415AFC8D40B8</AddInId>		
+		<FullClassName>Parametr_proekta.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Параметр проекта</Text>
+	</AddIn>
+</RevitAddIns>
